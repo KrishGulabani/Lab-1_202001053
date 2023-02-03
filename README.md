@@ -1,7 +1,5 @@
 # Lab-1_202001053
 Q1: Identify FRs and NFRs:
-The institute was recently established to offer cutting-edge research facilities in the area of software engineering. In addition to research scholars (students) and professors, it also contains a sizable workforce that works on various initiatives carried out by the university. It has been suggested to create a Library Information System (LIS) for the benefit of institute personnel and students given the growing size and capability of the institution. The members will be able to easily borrow and return books while seated at their desks or meeting rooms thanks to LIS. If no other booking has been made for that particular book, the system also allows a member to prolong the date of his borrowing. This technology helps the library personnel manage daily book transactions more simply. The system is entirely under the authority of the librarian, who has administrative rights and may add new records whenever a new book is bought or erase records whenever a book is removed from the shelf. This technology allows non-members to freely browse and search books online. But only authorised users (LIS members) are permitted to issue or return books. The end product would be a web application (using the most recent HTML 5) that could only be used inside the institute LAN. Although this greatly lowers the software's security risk, care should be taken to ensure that no sensitive data (such as passwords) is saved in plain text.
-
 
 Functional Requirements-: 
 
@@ -26,7 +24,7 @@ Non-Functional Requirements-:
 7) It should be easy to include new features into the system.
 
 
-Q2: Identify scope, features and non-functional aspects of the following problem.
+Q2:
 
 A astounding 466 million individuals, or almost 5% of the world's population, are affected with hearing loss that is incapacitating. We set out to provide a useful solution for this group that takes care of some of their basic requirements. When a user needs rapid warnings and ongoing logging, our mobile application employs artificial intelligence to identify important sound occurrences of relevance to this group, such automobile horns and newborns. This software is designed for Android and has low latency so that it may be used immediately.
 
