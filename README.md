@@ -21,35 +21,31 @@ Non-Functional Requirements-:
 2) To make login into the system more efficient, users should be given the opportunity to store passwords.
 3) The algorithm of the system should be able to suggest books to the user based on the data it gathers from both the user's wishlist and history.
 4) The software must be as simple to add new features and modify as possible, and it should be simple to maintain. Additionally, the software needs to be portable.
-5) System should be endowed with the notify feature so that the user can get to know when the desired book will be available.
-6) System should be able to minimize the output lag and execute the query as soon as possible.
-7) Adding any new feature to the system should be simple.
-8) The system should be fast enough to solve the query of the user.
-
+5) The system ought to have a notification option so that users may be informed when their desired books become accessible.
+6) The system must be able to reduce output latency and quickly perform the query.
+7) It should be easy to include new features into the system.
 
 
 Q2: Identify scope, features and non-functional aspects of the following problem.
 
-Approximately 5% of the world population (or a staggering 466 million people) suffers from disabling hearing loss. We set out to create an impactful solution for this community that addresses some of their everyday needs. Our mobile application uses artificial intelligence to recognize key sound events of interest to this community, such as car horns and babies, where immediate alerts and continual logging are critical for the user. This app is optimized for Android with low-latency so that it works in real-time for use.
-
+A astounding 466 million individuals, or almost 5% of the world's population, are affected with hearing loss that is incapacitating. We set out to provide a useful solution for this group that takes care of some of their basic requirements. When a user needs rapid warnings and ongoing logging, our mobile application employs artificial intelligence to identify important sound occurrences of relevance to this group, such automobile horns and newborns. This software is designed for Android and has low latency so that it may be used immediately.
 
 
 Scope:
 
-1) There should be an initiative to make a smartphone app for those who have hearing loss.
-2) To recognise significant sound occurrences, such as car horns and babies, use artificial intelligence should be promoted. 
+1) A project should be launched to create a smartphone app for those with hearing loss.
+2) Artificial intelligence should be encouraged in order to recognise important sound occurrences like newborns and automobile horns.
 
 
 
 Features: 
 
-1) Provides prompt alerts for locating sound events.
-2) The users who are suffering benefit from continuous logging..
-3) Preserving information about sound events for future usage.
-
+1) Quick notifications are given for finding sound events.
+2) The continual logging is advantageous to the users who are suffering.
+3) Saving details about audio occurrences for later use.
 
 Non-Functional Aspects:
 
-1) Working immediately.
-2) Made with Android in mind.
-3) Real-time functioning is ensured via low latency.
+1) Starting work right away.
+2) Designed just for Android.
+3) Low latency ensures real-time operation.
